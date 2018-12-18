@@ -1,5 +1,6 @@
 
-var namesArray = ['anu','banu','tanu'];
+//var namesArray = ['anu','tanu','manu','banu'];
+var namesArray = ["anu"];
 
 console.log('Array : '+ namesArray);
 
